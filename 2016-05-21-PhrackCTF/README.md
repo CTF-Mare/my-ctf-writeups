@@ -44,10 +44,12 @@ mount一下就好了吧，我都忘了……
 ### Easy Crackme[测试题]
 扔 IDA 就行。
 
-![easy_crackme1](https://raw.github.com/CTF-Mare/my-ctf-writeups/2016/2016-05-21-PhrackCTF/screenshots/easycrackme1.png)
+![easy_crackme1](https://raw.githubusercontent.com/CTF-Mare/my-ctf-writeups/master/2016-05-21-PhrackCTF/screenshots/easycrackme1.png)
 
-![easy_crackme2](https://raw.github.com/CTF-Mare/my-ctf-writeups/2016/2016-05-21-PhrackCTF/screenshots/easycrackme2.png)
+![easy_crackme2](https://raw.githubusercontent.com/CTF-Mare/my-ctf-writeups/master/2016-05-21-PhrackCTF/screenshots/easycrackme2.png)
 
-逻辑很简单，照着抄一下扔进 python 里就好了。
+逻辑很简单，照着抄一下扔进 python 里解就好了。
+
+
 
 
